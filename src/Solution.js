@@ -6,7 +6,7 @@ class Solution
 {
     constructor() {
         this.usersMap = {};
-        this.sortingPreferences = ['gender', 'age', 'interest'];
+        this.sortingPreferences = ['gender', 'age', 'interests'];
     }
 
     addUser(userParams) {
