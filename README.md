@@ -16,6 +16,6 @@ index.js - contains the sample example to run.
 You can execute the below command from command line to run the example:  
 - `$ node index.js`
 
-## Run Unites
+## Run Unit tests
 You can execute the below command to run unit tests:  
 - `$ npm run test`
